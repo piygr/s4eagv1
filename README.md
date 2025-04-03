@@ -1,6 +1,7 @@
 # Assignment 4 EAG1
 
 **s4eagv1** is a MCP project to learn the basics of MCO protocol to use LLM and interact with browser based paint app.
+[Demo](https://youtu.be/zfpb3x-xP1w)
 
 ## Table of Contents
 
